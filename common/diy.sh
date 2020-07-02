@@ -37,6 +37,7 @@ svn co https://github.com/Lienol/openwrt-package/trunk/others/luci-app-syncthing
 svn co https://github.com/Lienol/openwrt-package/trunk/others/luci-app-control-timewol
 
 git clone https://github.com/garypang13/openwrt-adguardhome
+git clone https://github.com/openwrt-develop/luci-theme-atmaterial
 git clone https://github.com/garypang13/luci-app-eqos
 # git clone https://github.com/garypang13/openwrt-qbittorrent && mv -f openwrt-qbittorrent/* ./
 git clone https://github.com/garypang13/openwrt-filerun
